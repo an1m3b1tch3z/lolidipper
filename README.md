@@ -9,7 +9,7 @@ I can't stop you from using it on hosts, but please don't. This is for education
 Sample Output
 ==============
     ./lolidipper 1000 25465
-    takes about 13 minutes to run because timeout->tv_sec is decremented once per second and 0xff*3 is 765.
+    takes about 13 minutes to run because running bits and bytes are slow and needs a secondfor each offset and 0xff*3 is 765.
         * some things you could do while waiting:
         * watch https://www.youtube.com/watch?v=t2we10nvE7A
         * watch https://www.youtube.com/watch?v=UX44ugzaqw4 $VAI $VAI $VAI $VAI
