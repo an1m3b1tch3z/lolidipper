@@ -7,7 +7,7 @@ This will exploit a flaw in multicraft and give full root permissions on a serve
 I can't stop you from using it on hosts, but please don't. This is for educational purposes only
 
 ABWGRTA (Anime Bitches Waifu Gang R00t Them All),
-An1m3b1tch3z out
+ out
 
 Sample Output
 ==============
