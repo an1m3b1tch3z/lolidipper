@@ -8,6 +8,10 @@ I can't stop you from using it on hosts, but please don't. This is for education
 
 ABWGRTA (Anime Bitches Waifu Gang R00t Them All),
  out
+ 
+ LICENSE
+========
+No Bulli Public License (NBPL v.0.2)
 
 Sample Output
 ==============
